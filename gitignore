@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+conda_env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights (too large for git)
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+runs/
+
+# Calibration data (machine-specific)
+# T_cam_to_ee.npy         # Uncomment if you want to exclude
+# calibration_data.json
+
+# Training datasets
+obb_dataset/
+datasets/
+
+# Logs
+*.log
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary
+*.tmp
+*.bak

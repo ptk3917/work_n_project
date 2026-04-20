@@ -1,0 +1,25 @@
+{
+  "type": "linear_xyz",
+  "num_points": 7,
+  "created": "2026-04-10T12:16:31.293298",
+  "axes": {
+    "x": {
+      "scale": 0.935033,
+      "offset": -93.14,
+      "rmse": 4.37,
+      "max_residual": 7.85
+    },
+    "y": {
+      "scale": 1.029377,
+      "offset": -20.61,
+      "rmse": 5.74,
+      "max_residual": 9.46
+    },
+    "z": {
+      "scale": 0.957532,
+      "offset": 112.13,
+      "rmse": 5.98,
+      "max_residual": 9.94
+    }
+  }
+}

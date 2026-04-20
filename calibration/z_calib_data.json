@@ -1,0 +1,50 @@
+{
+  "created": "2026-04-09T11:19:02.151824",
+  "total_points": 4,
+  "points": [
+    {
+      "index": 1,
+      "predicted_z": 93.48,
+      "actual_z": 213.48,
+      "error": 120.0,
+      "base_x": -626.41,
+      "base_y": -275.5,
+      "depth_mm": 541.0,
+      "label": "bottle",
+      "timestamp": "2026-04-09T11:16:17.171891"
+    },
+    {
+      "index": 2,
+      "predicted_z": 73.9,
+      "actual_z": 193.89,
+      "error": 119.99,
+      "base_x": -495.93,
+      "base_y": -20.4,
+      "depth_mm": 439.0,
+      "label": "box",
+      "timestamp": "2026-04-09T11:16:38.972900"
+    },
+    {
+      "index": 3,
+      "predicted_z": 118.56,
+      "actual_z": 228.57,
+      "error": 110.01,
+      "base_x": -519.35,
+      "base_y": -532.25,
+      "depth_mm": 527.0,
+      "label": "box",
+      "timestamp": "2026-04-09T11:17:43.457097"
+    },
+    {
+      "index": 4,
+      "predicted_z": 94.24,
+      "actual_z": 214.25,
+      "error": 120.0,
+      "base_x": -626.97,
+      "base_y": -277.24,
+      "depth_mm": 541.0,
+      "label": "bottle",
+      "timestamp": "2026-04-09T11:18:48.068704"
+    }
+  ]
+}
